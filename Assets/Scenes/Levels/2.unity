@@ -154,6 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 7
+  PoolSize: 5
 --- !u!4 &54440559
 Transform:
   m_ObjectHideFlags: 0
@@ -1560,6 +1561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 7
+  PoolSize: 5
 --- !u!1 &472169683
 GameObject:
   m_ObjectHideFlags: 0
@@ -1986,6 +1988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 5
+  PoolSize: 5
 --- !u!1 &660938139
 GameObject:
   m_ObjectHideFlags: 0
@@ -2032,6 +2035,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 8
+  PoolSize: 5
 --- !u!1 &668676470
 GameObject:
   m_ObjectHideFlags: 0
@@ -3620,6 +3624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 6
+  PoolSize: 5
 --- !u!1 &1137821568
 GameObject:
   m_ObjectHideFlags: 0
@@ -4134,6 +4139,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 5
+  PoolSize: 5
 --- !u!4 &1179596102
 Transform:
   m_ObjectHideFlags: 0
@@ -4195,6 +4201,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 8
+  PoolSize: 5
 --- !u!1001 &1182840099
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5019,6 +5026,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 8
+  PoolSize: 5
 --- !u!1 &1475448106
 GameObject:
   m_ObjectHideFlags: 0
@@ -5226,6 +5234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 7
+  PoolSize: 5
 --- !u!4 &1496852532
 Transform:
   m_ObjectHideFlags: 0
@@ -6079,6 +6088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 6
+  PoolSize: 5
 --- !u!4 &1730753383
 Transform:
   m_ObjectHideFlags: 0
@@ -6140,6 +6150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 6
+  PoolSize: 5
 --- !u!1 &1815913798
 GameObject:
   m_ObjectHideFlags: 0
@@ -6292,6 +6303,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 6702605109216595192, guid: 0f7add3eb64bed24da40f131d697daa9, type: 3}
   SpawnInterval: 6
+  PoolSize: 5
 --- !u!1 &1953903421
 GameObject:
   m_ObjectHideFlags: 0

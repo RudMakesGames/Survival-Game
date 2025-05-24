@@ -524,6 +524,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 6
+  PoolSize: 3
 --- !u!1 &73212274
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,6 +571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 8
+  PoolSize: 3
 --- !u!4 &89396040 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4528359099441242, guid: 8b612d16417a0324596c6c27c389bdb7, type: 3}
@@ -4048,6 +4050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 7
+  PoolSize: 3
 --- !u!1001 &858139540
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5525,6 +5528,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 8
+  PoolSize: 3
 --- !u!1 &1044655777
 GameObject:
   m_ObjectHideFlags: 0
@@ -6423,6 +6427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 6
+  PoolSize: 3
 --- !u!1001 &1224252169
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7142,6 +7147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 8
+  PoolSize: 3
 --- !u!1 &1357077549
 GameObject:
   m_ObjectHideFlags: 0
@@ -7545,6 +7551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 6
+  PoolSize: 3
 --- !u!4 &1449857954 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4528359099441242, guid: 8b612d16417a0324596c6c27c389bdb7, type: 3}
@@ -10030,6 +10037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 4053928072102792605, guid: 0da403781713e55418351a3c0b106065, type: 3}
   SpawnInterval: 6
+  PoolSize: 3
 --- !u!1 &1882598386
 GameObject:
   m_ObjectHideFlags: 0

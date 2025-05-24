@@ -154,6 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 3441097027238401693, guid: ecc18886fb691d24a9a39819d5caaecc, type: 3}
   SpawnInterval: 10
+  PoolSize: 5
 --- !u!4 &54440559
 Transform:
   m_ObjectHideFlags: 0
@@ -2989,6 +2990,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 3441097027238401693, guid: ecc18886fb691d24a9a39819d5caaecc, type: 3}
   SpawnInterval: 8
+  PoolSize: 5
 --- !u!4 &1179596102
 Transform:
   m_ObjectHideFlags: 0
@@ -4055,6 +4057,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 3441097027238401693, guid: ecc18886fb691d24a9a39819d5caaecc, type: 3}
   SpawnInterval: 7
+  PoolSize: 5
 --- !u!4 &1496852532
 Transform:
   m_ObjectHideFlags: 0
@@ -4979,6 +4982,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enemy: {fileID: 3441097027238401693, guid: ecc18886fb691d24a9a39819d5caaecc, type: 3}
   SpawnInterval: 5
+  PoolSize: 5
 --- !u!4 &1730753383
 Transform:
   m_ObjectHideFlags: 0
